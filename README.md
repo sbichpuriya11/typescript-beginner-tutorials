@@ -31,7 +31,6 @@ You can then start writing TypeScript code in `.ts` files within your project. T
 
 ```script
 tsc
-
 ```
 
 This will compile all TypeScript files in your project to JavaScript, following the settings specified in your `tsconfig.json` file.
