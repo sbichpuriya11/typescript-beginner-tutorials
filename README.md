@@ -1,6 +1,6 @@
 # TypeScript Quick Start
 
-[Official Documentation Link](https://www.typescriptlang.org/)
+[Official Documentation Link](https://www.typescriptlang.org/)<br>
 [Tutorial Link](https://youtube.com/playlist?list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW&si=wsyfacDroaqsuLi3)
 
 ## What is TypeScript?
